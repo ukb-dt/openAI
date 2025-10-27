@@ -85,6 +85,12 @@ To reproduce ChatGPT's results, I've compiled the list as provided, cleaning up 
 
 The table below tabulates ChatGPT's ranking. I've added a **Justification for ChatGPT Rank** column based on their stated metric ("breadth × depth of AI adoption," i.e., coverage of the 5 layers—Embodied AI, Generative AI, Agentic AI, Perception AI, World AI—multiplied by scale/adoption like enterprise reach, API availability, and ecosystem integration). Justifications are inferred from ChatGPT's highlights and cross-referenced with 2025 data from sources like Exploding Topics (user growth, funding) and CB Insights AI 100 (traction in agents/foundation models). Higher ranks prioritize broader layer coverage (e.g., 3+ layers) and deeper metrics (e.g., $500M+ funding, 100M+ users).
 
+- Company / Product
+- Scale/Adopoption
+- Enterprise/Reach
+- API/Cross-Talk
+- Ecosystem/Integration
+
 | ChatGPT Rank | Company/Project | Layers Covered | Highlights | Justification for ChatGPT Rank |
 |--------------|-----------------|----------------|------------|-------------------------------|
 | 2 | Anthropic | Generative AI, Agentic AI | Developer of the Claude series, focusing on safety and alignment. | High breadth (2 layers: strong in generative LLMs like Claude and agentic systems for autonomous tasks); depth via $8B+ funding (2025 Series D), 50M+ weekly users (Exploding Topics), and enterprise integrations (e.g., AWS Bedrock). Ranks #2 for close structural mirror to OpenAI's safety-focused API/agent model. |
