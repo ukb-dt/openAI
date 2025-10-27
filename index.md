@@ -1,5 +1,5 @@
 
-- Embodied AI: Coming Soon.. 
+- [Embodied AI](https://en.wikipedia.org/wiki/Tesla,_Inc.): Coming Soon.. 
 - Generative AI: New Products
 - Agentic AI: Same Name 
 - Perception AI: API
