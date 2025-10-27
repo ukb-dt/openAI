@@ -85,11 +85,12 @@ To reproduce ChatGPT's results, I've compiled the list as provided, cleaning up 
 
 The table below tabulates ChatGPT's ranking. I've added a **Justification for ChatGPT Rank** column based on their stated metric ("breadth × depth of AI adoption," i.e., coverage of the 5 layers—Embodied AI, Generative AI, Agentic AI, Perception AI, World AI—multiplied by scale/adoption like enterprise reach, API availability, and ecosystem integration). Justifications are inferred from ChatGPT's highlights and cross-referenced with 2025 data from sources like Exploding Topics (user growth, funding) and CB Insights AI 100 (traction in agents/foundation models). Higher ranks prioritize broader layer coverage (e.g., 3+ layers) and deeper metrics (e.g., $500M+ funding, 100M+ users).
 
-- Company / Product
-- Scale/Adopoption
-- Enterprise/Reach
-- API/Cross-Talk
-- Ecosystem/Integration
+## UKB-DRIVE
+- Evangelization: Company/Product/UX
+- Visualization: RouteScale/Adopoption/UI
+- Injected File: Enterprise/Reach/Flask App
+- Route: API/Cross-Talk/URL or Path
+- Directory: Ecosystem/Integration/Transfer Protocol
 
 | ChatGPT Rank | Company/Project | Layers Covered | Highlights | Justification for ChatGPT Rank |
 |--------------|-----------------|----------------|------------|-------------------------------|
