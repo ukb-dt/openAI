@@ -6,7 +6,7 @@
 - [World AI](https://arxiv.org/pdf/2501.03575): ChatGPT
 
 # Q
-Why did AI become a household world in 2023-2025? And why did OpenAI have over $1T in investment commitments from 3rd parties just in Oct 2025? Are the two related? What has language got to do with it?
+Why did AI become a [household-name](https://en.wikipedia.org/wiki/Brand_awareness) in 2023-2025? And why did OpenAI have over $1T in investment commitments from 3rd parties just in Oct 2025? Are the two related? What has language got to do with it?
 
 # A
 
