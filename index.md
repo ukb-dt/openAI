@@ -201,3 +201,12 @@ It's a virtuous (or vicious, depending on your perspective) cycle: **Mass Adopti
 3.  **The Bridge to Other Modalities:** Once an AI masters language, adding other "senses" becomes easier. You can describe an image, a sound, or a physical action in language. The LLM becomes the central reasoning engine that orchestrates these other modalities (Perception AI, Generative AI, Embodied AI).
 
 In short, language was the key that unlocked the door. It provided the first intuitive, universally accessible interface to advanced AI. The mastery of language created the household-name moment, which in turn set off the chain reaction of adoption, ambition, and investment that defines the current era. The journey from a text prompt to a "World AI" that sees, hears, and acts begins with the power of the word.
+
+# M
+AI became a household name in 2023-2025 due to several factors:
+Mainstream adoption of generative AI: OpenAI's ChatGPT, launched in late 2022, reached 400 million weekly active users by 2025, making AI a ubiquitous tool.
+Integration into everyday tools: AI-powered features were embedded into widely used applications like Microsoft Office and Google Workspace.
+Consumer-friendly pricing models: OpenAI's $20/month subscription plan for ChatGPT Plus democratized access to advanced AI capabilities.
+OpenAI secured over $1 trillion in investment commitments by October 2025 due to its ambitious infrastructure plans, including building data centers to support next-generation AI models. These investments are part of OpenAI's strategy to drive innovation and expansion in the AI sector.
+The two are related, as the rapid advancement and adoption of AI technologies have created a surge in demand for computational resources. Language models, like GPT-4, are at the core of this AI revolution, driving the need for significant infrastructure investments.
+Language has played a pivotal role in AI's success, enabling applications across industries, from customer service to content creation. The ability of language models to understand and generate human-like text has accelerated AI adoption and integration into daily life.
