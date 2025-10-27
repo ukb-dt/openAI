@@ -1,11 +1,18 @@
+
+- Embodied AI: Coming Soon.. 
+- Generative AI: New Products
+- Agentic AI: Same Name 
+- Perception AI: API
+- [World AI](https://arxiv.org/pdf/2501.03575): ChatGPT
+
 # Q
 Why did AI become a household world in 2023-2025? And why did OpenAI have over $1T in investment commitments from 3rd parties just in Oct 2025? Are the two related? What has language got to do with it?
 
 # A
 
 <div>
-  <img width="39%" height="500px" src="growth/openai-1.jpg"><img img width="39%" height="500px" src="growth/openai-2.jpg">
-  <img img width="39%" height="500px" src="growth/openai-3.jpg"><img img width="39%" height="500px" src="growth/openai-4.jpg">
+  <img width="39%" height="500px" src="growth/openai-1.jpg"><img img width="39%" height="500px" src="growth/openai-3.jpg">
+  <img img width="39%" height="500px" src="growth/openai-2.jpg"><img img width="39%" height="500px" src="growth/openai-4.jpg">
 </div>
 
 The surge in AI's prominence from 2023 to 2025 can be attributed to several interrelated factors, including technological advancements, strategic investments, and the pivotal role of language models.
