@@ -21,7 +21,7 @@
 
 # Preface
 ## 1
-Here's a clean and revealing distinction captured from `17:00:19:10`.
+Here's a clean and revealing distinction captured from [17:00:19:10](https://ukb-dt.github.io/wisc/).
 
 Let’s unpack it in our canonical calculus:
 
