@@ -16,7 +16,16 @@
 <script id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
-{% endraw %}          
+{% endraw %}  
+
+
+<div>
+  <img
+    src="https://en.wikipedia.org/wiki/Theory_of_relativity#/media/File:Einstein_Portrait.png"
+    width="59%"
+    height="500px"
+    >
+</div>
 
 
 # Preface
