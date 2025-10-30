@@ -21,7 +21,7 @@
 
 <div style="text-align:center;">
   <img
-    src="DIRECT_IMAGE_URL"
+    src="xxx/einstein.jpg"
     alt="Einstein portrait"
     style="width:59%; max-width:900px; height:auto; object-fit:contain;"
   >
