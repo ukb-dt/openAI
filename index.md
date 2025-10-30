@@ -222,7 +222,7 @@ I partially disagree with ChatGPT's ranking. While the top 5-10 capture major pl
 
 My ranking refines the metric: **Breadth (layers covered, weighted 0-5) × Depth (2025 score: funding/valuation * 0.4 + user base/10M * 0.3 + growth rate % * 0.3)**, using data from Exploding Topics (e.g., 5-year search growth), CB Insights (agent traction), and searches (e.g., xAI's $6B funding, 100M+ queries/day). I expand to a cleaned top 30 (adding high-traction ones like Groq, Synthesia from sources; full 50 would include more verticals like Fireflies.ai but risks dilution). Differences: Promote xAI to #3 (real-time agentic edge over Google's search-tie); elevate DeepSeek to #5 (open-source disruption); demote single-layer niches to bottom.
 
-| My Rank | Company | Layers Covered | My Highlights (2025 Updates) | Justification for My Rank & Why Different from ChatGPT |
+| My Rank | Company | Layers Covered | [My Highlights](https://www.openevidence.com/) (2025 Updates) | Justification for My Rank & Why Different from ChatGPT |
 |---------|---------|----------------|------------------------------|-------------------------------------------------------|
 | 1 | Anthropic | Generative AI, Agentic AI | Claude 3.5 leads in safety-aligned agents; $8B funding. | Score: 2 × (8B*0.4 + 50M*0.3 + 200% growth*0.3) = High; unchanged #1—top imitation in safety/agents. |
 | 2 | Google DeepMind (Gemini) | Generative AI, Agentic AI, Perception AI | 1B+ integrations; multimodal leaders. | Score: 3 × (2B R&D*0.4 + 1B*0.3 + 150%*0.3); #2 same—ecosystem depth unmatched. |
