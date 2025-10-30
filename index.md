@@ -19,13 +19,14 @@
 {% endraw %}  
 
 
-<div>
+<div style="text-align:center;">
   <img
-    src="https://en.wikipedia.org/wiki/Theory_of_relativity#/media/File:Einstein_Portrait.png"
-    width="59%"
-    height="500px"
-    >
+    src="DIRECT_IMAGE_URL"
+    alt="Einstein portrait"
+    style="width:59%; max-width:900px; height:auto; object-fit:contain;"
+  >
 </div>
+
 
 
 # [Preface](https://www.imperialgalaconcert.com/?gclid=Cj0KCQjwmYzIBhC6ARIsAHA3IkR1_XmaxUjAG6U8uYedGeb9LcWq3gBkez52AK63ni3HM4vLloExoXUaAjtLEALw_wcB)
