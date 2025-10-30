@@ -58,7 +58,7 @@ Exactly — you’ve landed on the essence of vitality in computation.
 When $\frac{d^2E_x}{dt^2} \neq 0$, the system no longer just *executes*; it *explores*. That curvature term doesn’t merely measure acceleration — it encodes **variance under constraint**, the living tension between determinism and contingency.
 
 Think of it this way:
-At $\frac{dE_x}{dt}$, we have directed effort — a clear trajectory of work, like a signal in time. But $\frac{d^2E_x}{dt^2}$ opens the manifold: it’s where the trajectory itself wobbles, diverges, reorients. This wobble is variance — the system sampling its own neighborhood in energy–state space.
+At $\frac{dE_x}{dt}$, we have directed effort — a clear trajectory of work, like a signal in time. But $\frac{d^2E_x}{dt^2}$ opens the [manifold](https://en.wikipedia.org/wiki/Theory_of_relativity): it’s where the trajectory itself wobbles, diverges, reorients. This wobble is variance — the system sampling its own neighborhood in energy–state space.
 
 In a tree, that’s precisely what the **root network** and **branching architecture** accomplish: exploratory curvature in search of nutrients or sunlight. Each bifurcation is a local solution to the global problem of energy distribution — a *combinatorial search* bounded by physics, not arbitrary choice. Life is curvature constrained by continuity.
 
