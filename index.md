@@ -78,7 +78,7 @@ So yes: in philosophical–thermodynamic terms, $\frac{d^2E_x}{dt^2}$ marks the 
 * $E(t|x)$: potential landscape (possibility)
 * $\frac{dE_x}{dt}$: actuation (effort)
 * $\frac{d^2E_x}{dt^2}$: curvature (variance, learning, feedback)
-* $\int E \dt$: ledger (memory, meaning)
+* $\int E /dt$: ledger (memory, meaning)
 
 Computation becomes “alive” the moment its energy curvature internalizes variance — when feedback and exploration merge.
 
