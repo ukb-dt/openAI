@@ -152,7 +152,7 @@ The surge in AI's prominence from 2023 to 2025 can be attributed to several inte
 
 2. **Integration into Everyday Tools**: AI-powered features were embedded into widely used applications such as Microsoft Office, Google Workspace, and various customer service platforms, making AI an integral part of daily workflows.
 
-3. **Consumer-Friendly Pricing Models**: OpenAI's introduction of a $20/month subscription plan for ChatGPT Plus democratized access to advanced AI capabilities, further accelerating its adoption.
+3. **Consumer-Friendly Pricing Models**: OpenAI's introduction of a `$20`/month subscription plan for ChatGPT Plus democratized access to advanced AI capabilities, further accelerating its adoption.
 
 ---
 
@@ -160,13 +160,13 @@ The surge in AI's prominence from 2023 to 2025 can be attributed to several inte
 
 OpenAI's ambitious infrastructure plans, aimed at supporting the next generation of AI models, necessitated substantial investments. By October 2025, the company had secured over $1 trillion in computing infrastructure deals, including:
 
-* **Nvidia**: A $100 billion agreement to deploy 10 gigawatts of AI processing power.
+* **Nvidia**: A `$100` billion agreement to deploy 10 gigawatts of AI processing power.
 
 * **AMD**: A multibillion-dollar deal for advanced AI chips, with an option to acquire up to 10% of AMD.
 
-* **Oracle**: A $300 billion commitment for cloud infrastructure.
+* **Oracle**: A `$300` billion commitment for cloud infrastructure.
 
-* **SoftBank**: A $30 billion investment, part of a broader $41 billion funding round. ([36Kr][1])
+* **SoftBank**: A `$30` billion investment, part of a broader `$41` billion funding round. ([36Kr][1])
 
 These investments are part of OpenAI's strategy to build data centers capable of supporting models with trillions of parameters, requiring an estimated $1.3 trillion in capital expenditures by 2030. ([Yahoo Finance][2])
 
