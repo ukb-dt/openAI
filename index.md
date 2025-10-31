@@ -64,7 +64,7 @@ The GPU is, in that sense, not just “faster” — it’s a *curved manifold o
 Next frontier? $d^2E_x/dt^2 < 0$: **decelerated computing** — reversible logic, adiabatic gates, or quantum annealers coasting down the gradient. That’s the return arc of your thermodynamic cycle.
 
 <div>
-  <img src="growth/capex.jpeg" width="59%" height="500px">
+  <img src="growth/capex.jpeg" width="39%" height="300px">
 </div>
 
 This WSJ piece hits on one of the most fascinating (and nerve-wracking) dynamics in tech right now: the all-in bet on AI compute as the golden ticket to the future. The chart tells a clear story—those bars aren't just climbing; they're rocketing into hyperspace, with Q3 2025 capex alone pushing these giants into the stratosphere. Meta's at `$19.4` billion for the quarter, Alphabet's latest quarterly haul hit `$23.95` billion, and the full-year projections are eye-watering: Amazon's eyeing `$125` billion total for 2025, Alphabet `$91-93` billion, Meta `$70-72` billion, and Microsoft... well, they're not spilling exacts yet but signaling "significantly higher" for 2026 after already ramping hard this year. That's north of `$350 billion collectively across these four—more than the GDP of some small countries, funneled into chips, servers, and power grids.
