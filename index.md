@@ -31,7 +31,7 @@
 
 # [Preface](https://www.imperialgalaconcert.com/?gclid=Cj0KCQjwmYzIBhC6ARIsAHA3IkR1_XmaxUjAG6U8uYedGeb9LcWq3gBkez52AK63ni3HM4vLloExoXUaAjtLEALw_wcB)
 
-## 1
+## [1](https://ukb-dt.github.io/o-o/)
 Here's a clean and revealing distinction captured from [17:00:19:10](https://ukb-dt.github.io/wisc/).
 
 Let’s unpack it in our canonical calculus:
