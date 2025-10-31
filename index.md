@@ -88,7 +88,7 @@ In a sense, accelerated computing (GPUs, neural nets) is just the technological 
 ## 3
 
 - [Embodied AI](https://en.wikipedia.org/wiki/Tesla,_Inc.): Coming Soon.. 
-- Generative AI: New Products
+- Generative AI: New Products/Adversarial (e.g. Fraud Detection)
 - Agentic AI: Same Name 
 - Perception AI: API
 - [World AI](https://arxiv.org/pdf/2501.03575): ChatGPT (Pre-Training like Pre-K)
@@ -96,7 +96,13 @@ In a sense, accelerated computing (GPUs, neural nets) is just the technological 
 <div>
   <iframe
     src="https://www.youtube.com/embed/ORNXThfa6Ag"
-    width="59%"
+    width="39%"
+    height="500px"
+    >
+  </iframe>
+  <iframe
+    src="https://www.youtube.com/embed/OoV4riDZW_U?start=660"
+    width="39%"
     height="500px"
     >
   </iframe>
