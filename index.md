@@ -91,7 +91,7 @@ In a sense, accelerated computing (GPUs, neural nets) is just the technological 
 - Generative AI: New Products/Adversarial (e.g. Fraud Detection)
 - Agentic AI: Same Name 
 - Perception AI: API
-- [World AI](https://arxiv.org/pdf/2501.03575): Data Curating/[Tilling](https://ukb-dt.github.io/openAI/) Soil/ChatGPT (Pre-Training like Pre-K)
+- [World AI](https://arxiv.org/pdf/2501.03575): Data Curating/[Tilling](https://ukb-dt.github.io/g.1-28/) Soil/ChatGPT (Pre-Training like Pre-K)
    - Okuzala/seeding, manure, fertilizers
    - Okumera/germinating
    - Okukula/root-growth
