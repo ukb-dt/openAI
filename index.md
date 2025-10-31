@@ -27,7 +27,9 @@
   >
 </div>
 
-
+<div>
+  <img src="capex/capex.jpeg" width="59%" height="500px">
+</div>
 
 # [Preface](https://www.imperialgalaconcert.com/?gclid=Cj0KCQjwmYzIBhC6ARIsAHA3IkR1_XmaxUjAG6U8uYedGeb9LcWq3gBkez52AK63ni3HM4vLloExoXUaAjtLEALw_wcB)
 
