@@ -67,14 +67,14 @@ Next frontier? $d^2E_x/dt^2 < 0$: **decelerated computing** — reversible logic
   <img src="growth/capex.jpeg" width="59%" height="500px">
 </div>
 
-Yeah, this WSJ piece hits on one of the most fascinating (and nerve-wracking) dynamics in tech right now: the all-in bet on AI compute as the golden ticket to the future. The chart tells a clear story—those bars aren't just climbing; they're rocketing into hyperspace, with Q3 2025 capex alone pushing these giants into the stratosphere. Meta's at $19.4 billion for the quarter, Alphabet's latest quarterly haul hit $23.95 billion, and the full-year projections are eye-watering: Amazon's eyeing $125 billion total for 2025, Alphabet $91-93 billion, Meta $70-72 billion, and Microsoft... well, they're not spilling exacts yet but signaling "significantly higher" for 2026 after already ramping hard this year. That's north of $350 billion collectively across these four—more than the GDP of some small countries, funneled into chips, servers, and power grids.
+This WSJ piece hits on one of the most fascinating (and nerve-wracking) dynamics in tech right now: the all-in bet on AI compute as the golden ticket to the future. The chart tells a clear story—those bars aren't just climbing; they're rocketing into hyperspace, with Q3 2025 capex alone pushing these giants into the stratosphere. Meta's at $19.4 billion for the quarter, Alphabet's latest quarterly haul hit \$23.95 billion, and the full-year projections are eye-watering: Amazon's eyeing $125 billion total for 2025, Alphabet \$91-93 billion, Meta \$70-72 billion, and Microsoft... well, they're not spilling exacts yet but signaling "significantly higher" for 2026 after already ramping hard this year. That's north of \$350 billion collectively across these four—more than the GDP of some small countries, funneled into chips, servers, and power grids.
 
 | Company   | 2025 Capex Projection | Key Driver                  | 2026 Outlook                  |
 |-----------|-----------------------|-----------------------------|-------------------------------|
-| Meta     | $70-72B              | AI training/inference infra | "Notably larger"             |
-| Alphabet | $91-93B              | Data centers, TPUs          | Continued acceleration        |
-| Amazon   | $125B                | AWS AI services expansion   | Even higher (implied)         |
-| Microsoft| ~$60-70B (est.)      | Azure/OpenAI integration    | "Significantly higher"        |
+| Meta     | \$70-72B              | AI training/inference infra | "Notably larger"             |
+| Alphabet | \$91-93B              | Data centers, TPUs          | Continued acceleration        |
+| Amazon   | \$125B                | AWS AI services expansion   | Even higher (implied)         |
+| Microsoft| ~\$60-70B (est.)      | Azure/OpenAI integration    | "Significantly higher"        |
 
 What jumps out is the acceleration: Year-over-year growth is 30-50% for most, but it's the forward guidance that's spooking investors. Stocks dipped post-earnings (Meta got whacked ~5% after Zuck's defense of the spend), reflecting that classic tension—short-term cash burn vs. long-term moat-building. Investors love the revenue pops (Amazon's cloud jumped 13% QoQ), but the "where's the ROI?" chorus is getting louder. Capex now eats 21-35% of revenue for these players, up from single digits pre-AI boom.
 
