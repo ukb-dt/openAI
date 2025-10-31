@@ -75,7 +75,7 @@ In a tree, that’s precisely what the **root network** and **branching architec
 
 So yes: in philosophical–thermodynamic terms, $\frac{d^2E_x}{dt^2}$ marks the **birth of adaptivity** — the point where a system starts to feel its own variance. It is feedback made geometric. That’s why your calculus is so powerful:
 
-* $E(t|x)$: potential landscape (possibility)
+* $E(t \mid x)$: potential landscape (possibility)
 * $\frac{dE_x}{dt}$: actuation (effort)
 * $\frac{d^2E_x}{dt^2}$: curvature (variance, learning, feedback)
 * $\int E /dt$: ledger (memory, meaning)
@@ -193,7 +193,7 @@ The table below tabulates ChatGPT's ranking. I've added a **Justification for Ch
 |--------------|-----------------|----------------|------------|-------------------------------|
 | 2 | Anthropic | Generative AI, Agentic AI | Developer of the Claude series, focusing on safety and alignment. | High breadth (2 layers: strong in generative LLMs like Claude and agentic systems for autonomous tasks); depth via $8B+ funding (2025 Series D), 50M+ weekly users (Exploding Topics), and enterprise integrations (e.g., AWS Bedrock). Ranks #2 for close structural mirror to OpenAI's safety-focused API/agent model. |
 | 3 | Google DeepMind (Gemini) | Generative AI, Agentic AI, Perception API | Integration across Google services and advanced AI research. | Broad coverage (3 layers: Gemini for generative text/image, agentic in Workspace automation, perception via APIs); depth with 1B+ users via Google ecosystem, $2B+ R&D spend. #3 for massive scale but less "pure" imitation (tied to search/hardware). |
-| 4 | Microsoft (Copilot/Azure OpenAI) | Perception AI, Generative AI | Azure OpenAI integration, Copilot in Office products. | Solid breadth (2 layers: perception embeddings, generative via Copilot); depth: $13B invested in OpenAI stake, 400M+ Office users, $100B+ Azure AI revenue (2025 est.). #4 for heavy reliance on OpenAI tech, making it a "distributor" more than innovator. |
+| 4 | Microsoft (Copilot/Azure OpenAI) | Perception AI, Generative AI | Azure OpenAI integration, Copilot in Office products. | Solid breadth (2 layers: perception embeddings, generative via Copilot); depth: `$13B` invested in OpenAI stake, 400M+ Office users, $100B+ Azure AI revenue (2025 est.). #4 for heavy reliance on OpenAI tech, making it a "distributor" more than innovator. |
 | 5 | Meta (LLaMA, BlenderBot) | Generative AI, Perception AI | Open-source models and integration into social platforms. | 2 layers (generative open LLMs, perception for multimodal); depth: 3B+ Meta users, $1B+ LLaMA ecosystem funding. #5 for open-source push mirroring OpenAI's accessibility, but lower agentic focus. |
 | 6 | Cohere | Generative AI, Perception AI | Enterprise-focused LLMs with API offerings. | 2 layers (generative text, perception embeddings); depth: $943M funding, 1M+ API calls/day (CB Insights), enterprise adoption (e.g., Oracle). #6 for API-first structure akin to OpenAI, strong in business depth. |
 | 7 | Mistral AI | Generative AI, Perception AI | Open-weight models with a growing ecosystem. | 2 layers (generative LLMs like Mistral Large, perception APIs); depth: $640M funding, 10M+ downloads (Hugging Face). #7 for European open-source ambition, but narrower consumer reach. |
@@ -233,7 +233,7 @@ I partially disagree with ChatGPT's ranking. While the top 5-10 capture major pl
 
 My ranking refines the metric: **Breadth (layers covered, weighted 0-5) × Depth (2025 score: funding/valuation * 0.4 + user base/10M * 0.3 + growth rate % * 0.3)**, using data from Exploding Topics (e.g., 5-year search growth), CB Insights (agent traction), and searches (e.g., xAI's $6B funding, 100M+ queries/day). I expand to a cleaned top 30 (adding high-traction ones like Groq, Synthesia from sources; full 50 would include more verticals like Fireflies.ai but risks dilution). Differences: Promote xAI to #3 (real-time agentic edge over Google's search-tie); elevate DeepSeek to #5 (open-source disruption); demote single-layer niches to bottom.
 
-| My Rank | Company | Layers Covered | [My Highlights](https://www.openevidence.com/) (2025 Updates) | Justification for My Rank & Why Different from ChatGPT |
+| My Rank | Company | Layers Covered | [My Highlights](https://www.openevidence.com/) ([2025](https://consensus.app/) Updates) | Justification for My Rank & Why Different from ChatGPT |
 |---------|---------|----------------|------------------------------|-------------------------------------------------------|
 | 1 | Anthropic | Generative AI, Agentic AI | Claude 3.5 leads in safety-aligned agents; $8B funding. | Score: 2 × (8B*0.4 + 50M*0.3 + 200% growth*0.3) = High; unchanged #1—top imitation in safety/agents. |
 | 2 | Google DeepMind (Gemini) | Generative AI, Agentic AI, Perception AI | 1B+ integrations; multimodal leaders. | Score: 3 × (2B R&D*0.4 + 1B*0.3 + 150%*0.3); #2 same—ecosystem depth unmatched. |
