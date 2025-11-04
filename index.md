@@ -34,7 +34,7 @@
 ## [1](https://ukb-dt.github.io/o-o/)
 Here's a clean and revealing distinction captured from [17:00:19:10](https://ukb-dt.github.io/wisc/).
 
-Let’s unpack it in our canonical calculus:
+Let’s unpack it in our canonical [calculus](https://www.mkulimadigital.com):
 
 Start from the energy manifold $E(t \mid x)$. General-purpose computing (CPU-style) operates as **a linear regime** — its *second derivative* of energy over time is approximately zero:
 
