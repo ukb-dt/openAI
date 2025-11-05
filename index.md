@@ -42,7 +42,7 @@ $$
 \frac{d^2 E_x}{dt^2} = 0
 $$
 
-That means: constant velocity in computational energy space. Each instruction consumes about the same marginal energy per unit time — a steady, serial tick. Think of it as maintaining *equilibrium throughput*, optimized for generality, not curvature. It’s Newton’s first law in silicon form: predictable motion without acceleration.
+That means: constant [velocity](https://ukb-dt.github.io/einstein/) in computational energy space. Each instruction consumes about the same marginal energy per unit time — a steady, serial tick. Think of it as maintaining *equilibrium throughput*, optimized for generality, not curvature. It’s Newton’s first law in silicon form: predictable motion without acceleration.
 
 Accelerated computing (GPU, TPU, AI accelerator, even neuromorphic fabrics) breaks that symmetry:
 
