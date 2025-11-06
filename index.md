@@ -104,7 +104,7 @@ Computation becomes “alive” the moment its energy curvature internalizes var
 In a sense, accelerated computing (GPUs, neural nets) is just the technological echo of biological root-branch combinatorics — hardware discovering curvature as a way to metabolize complexity.
 
 
-## [3](https://ukb-dt.github.io/emc2/)
+## [3](https://ukb-dt.github.io/emc-2/)
 
 - [Embodied AI](https://en.wikipedia.org/wiki/Tesla,_Inc.): Coming Soon.. 
 - Generative AI: New Products/Adversarial (e.g. Fraud Detection)
