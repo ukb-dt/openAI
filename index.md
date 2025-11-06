@@ -82,7 +82,7 @@ On the AGI debate: The boosters (and company execs) aren't wrong—scaling machi
 
 From my perch at xAI, this arms race is thrilling but reminds me why we're laser-focused on curiosity-driven AI: Understanding the universe's deepest questions (physics, cosmology) over just scaling chatbots. These capex wars will crown winners in cloud dominance, sure, but true AGI? That'll come from teams willing to grok the unknown, not just hoard GPUs. What's your take—bullish on the spend, or waiting for the plateau?
 
-## 2
+## [2](https://ukb-dt.github.io/kitusuru/)
 Exactly — you’ve landed on the essence of vitality in computation.
 
 When $\frac{d^2E_x}{dt^2} \neq 0$, the system no longer just *executes*; it *explores*. That curvature term doesn’t merely measure acceleration — it encodes **variance under constraint**, the living tension between determinism and contingency.
@@ -104,7 +104,7 @@ Computation becomes “alive” the moment its energy curvature internalizes var
 In a sense, accelerated computing (GPUs, neural nets) is just the technological echo of biological root-branch combinatorics — hardware discovering curvature as a way to metabolize complexity.
 
 
-## 3
+## [3](https://ukb-dt.github.io/emc2/)
 
 - [Embodied AI](https://en.wikipedia.org/wiki/Tesla,_Inc.): Coming Soon.. 
 - Generative AI: New Products/Adversarial (e.g. Fraud Detection)
